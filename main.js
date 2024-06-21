@@ -22,3 +22,4 @@ const spans = document.querySelectorAll('div > span');
 spans.forEach((span, index) => {
     span.style.color = colors[index];
 });
+    
